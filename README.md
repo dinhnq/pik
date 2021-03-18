@@ -1,2 +1,3 @@
 # pik
 Pikachu (PIK) Address: 0x7639b1103F027D93562920349472de7f69b6E2c3
+https://testnet.bscscan.com/token/0x7639b1103F027D93562920349472de7f69b6E2c3
